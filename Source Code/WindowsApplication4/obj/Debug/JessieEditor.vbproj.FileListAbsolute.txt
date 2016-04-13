@@ -1,0 +1,39 @@
+K:\Batch Maker\WindowsApplication4\bin\Debug\Jessie Editor.exe.config
+K:\Batch Maker\WindowsApplication4\obj\Debug\Jessie Editor.exe
+K:\Batch Maker\WindowsApplication4\obj\Debug\Jessie Editor.pdb
+K:\Batch Maker\WindowsApplication4\bin\Debug\Resources\Example Program.html
+K:\Batch Maker\WindowsApplication4\bin\Debug\Resources\Hello World.html
+K:\Batch Maker\WindowsApplication4\bin\Debug\Resources\index.html
+K:\Batch Maker\WindowsApplication4\bin\Debug\Resources\boot.wav
+K:\Batch Maker\WindowsApplication4\bin\Debug\Resources\Custom Commands.html
+K:\Batch Maker\WindowsApplication4\bin\Debug\Resources\Customizing.html
+K:\Batch Maker\WindowsApplication4\bin\Debug\Resources\Droplet-Animation.gif
+K:\Batch Maker\WindowsApplication4\bin\Debug\Jessie Editor.exe.manifest
+K:\Batch Maker\WindowsApplication4\bin\Debug\Jessie Editor.application
+K:\Batch Maker\WindowsApplication4\bin\Debug\Jessie Editor.exe
+K:\Batch Maker\WindowsApplication4\bin\Debug\Jessie Editor.pdb
+K:\Batch Maker\WindowsApplication4\obj\Debug\JessieEditor.vbprojResolveAssemblyReference.cache
+K:\Batch Maker\WindowsApplication4\obj\Debug\JessieEditor.AboutBox1.resources
+K:\Batch Maker\WindowsApplication4\obj\Debug\JessieEditor.MainForm.resources
+K:\Batch Maker\WindowsApplication4\obj\Debug\JessieEditor.Form10.resources
+K:\Batch Maker\WindowsApplication4\obj\Debug\JessieEditor.Form11.resources
+K:\Batch Maker\WindowsApplication4\obj\Debug\JessieEditor.Form12.resources
+K:\Batch Maker\WindowsApplication4\obj\Debug\JessieEditor.Form13.resources
+K:\Batch Maker\WindowsApplication4\obj\Debug\JessieEditor.Form14.resources
+K:\Batch Maker\WindowsApplication4\obj\Debug\JessieEditor.Form15.resources
+K:\Batch Maker\WindowsApplication4\obj\Debug\JessieEditor.Form16.resources
+K:\Batch Maker\WindowsApplication4\obj\Debug\JessieEditor.Form17.resources
+K:\Batch Maker\WindowsApplication4\obj\Debug\JessieEditor.Form2.resources
+K:\Batch Maker\WindowsApplication4\obj\Debug\JessieEditor.Form3.resources
+K:\Batch Maker\WindowsApplication4\obj\Debug\JessieEditor.Form4.resources
+K:\Batch Maker\WindowsApplication4\obj\Debug\JessieEditor.Form5.resources
+K:\Batch Maker\WindowsApplication4\obj\Debug\JessieEditor.Form6.resources
+K:\Batch Maker\WindowsApplication4\obj\Debug\JessieEditor.Form7.resources
+K:\Batch Maker\WindowsApplication4\obj\Debug\JessieEditor.Form8.resources
+K:\Batch Maker\WindowsApplication4\obj\Debug\JessieEditor.Form9.resources
+K:\Batch Maker\WindowsApplication4\obj\Debug\JessieEditor.Resources.resources
+K:\Batch Maker\WindowsApplication4\obj\Debug\JessieEditor.SplashScreen1.resources
+K:\Batch Maker\WindowsApplication4\obj\Debug\JessieEditor.vbproj.GenerateResource.Cache
+K:\Batch Maker\WindowsApplication4\obj\Debug\Jessie Editor.TrustInfo.xml
+K:\Batch Maker\WindowsApplication4\obj\Debug\Jessie Editor.exe.manifest
+K:\Batch Maker\WindowsApplication4\obj\Debug\Jessie Editor.application
